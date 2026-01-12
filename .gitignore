@@ -1,0 +1,18 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Dependency folders
+node_modules/
+
+# Environment variables (keamanan)
+.env
+
+# OS Metadata
+.DS_Store
+Thumbs.db
