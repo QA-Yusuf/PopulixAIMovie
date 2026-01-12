@@ -14,6 +14,6 @@ Actual Result : [Bug-002.jpg](https://github.com/QA-Yusuf/PopulixAIMovie/blob/2c
 
 Bug ID : BUG-003
 Issue : AI give the wrong answer for the year when test TCP07_Successfully Search comedy movies last year on \tests\AISpesificBehaviours_test.spec.js.
-Description : The AI giving wrong answer about comedy movies last year by showing comedy movies in not 2024, because now is 2025 so last year is 2024.
-Expected result : AI must showing comedy movies in 2024.
+Description : The AI giving wrong answer about comedy movies last year by showing comedy movies in not 2025, because now is 2026 so last year is 2025.
+Expected result : AI must showing comedy movies in 2025.
 Actual Result : [Bug-003.jpg](https://github.com/QA-Yusuf/PopulixAIMovie/blob/2c7f684f63b28c18b7d99d35a5ee31a16b41166d/Bug/Bug-003.jpg)
